@@ -1,9 +1,12 @@
 
+
 # Compiled files
 *.exe
 *.obj
+*.o
 *.ilk
 *.pdb
 
 # Visual Studio files
 .vs/
+.vscode/
